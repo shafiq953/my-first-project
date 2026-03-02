@@ -1,4 +1,11 @@
+body {
+    margin: 0;
+}
+
+
 header {
     background-color: blue;
     color: white;
+    text-align: center;
 }
+
